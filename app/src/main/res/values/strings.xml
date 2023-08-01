@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_lib">Library</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_events">Events</string>
+    <string name="title_reports">Reports</string>
+    <string name="testButton"> Login </string>
+</resources>
